@@ -1,3 +1,7 @@
+# Description
+
+Created designs for a watch shop. This was done with React and styled components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
