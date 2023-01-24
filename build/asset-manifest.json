@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b99c50f.chunk.css",
+    "main.js": "/static/js/main.2b71419e.chunk.js",
+    "main.js.map": "/static/js/main.2b71419e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.52fbdf32.js",
+    "runtime-main.js.map": "/static/js/runtime-main.52fbdf32.js.map",
+    "static/js/2.4b47f269.chunk.js": "/static/js/2.4b47f269.chunk.js",
+    "static/js/2.4b47f269.chunk.js.map": "/static/js/2.4b47f269.chunk.js.map",
+    "static/js/3.f911e32d.chunk.js": "/static/js/3.f911e32d.chunk.js",
+    "static/js/3.f911e32d.chunk.js.map": "/static/js/3.f911e32d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8b99c50f.chunk.css.map": "/static/css/main.8b99c50f.chunk.css.map",
+    "static/js/2.4b47f269.chunk.js.LICENSE.txt": "/static/js/2.4b47f269.chunk.js.LICENSE.txt",
+    "static/media/blue dot.6b280e48.svg": "/static/media/blue dot.6b280e48.svg",
+    "static/media/boxicons.min.css": "/static/media/boxicons.cbd149c5.ttf",
+    "static/media/download.cb7612b2.svg": "/static/media/download.cb7612b2.svg",
+    "static/media/eye-off.662133ee.svg": "/static/media/eye-off.662133ee.svg",
+    "static/media/eye.8876452d.svg": "/static/media/eye.8876452d.svg",
+    "static/media/featured1.aad77c8a.png": "/static/media/featured1.aad77c8a.png",
+    "static/media/featured3.ed09ad66.png": "/static/media/featured3.ed09ad66.png",
+    "static/media/green dot.b2422ec7.svg": "/static/media/green dot.b2422ec7.svg",
+    "static/media/home.5c1f0ebb.png": "/static/media/home.5c1f0ebb.png",
+    "static/media/location2.cba5d06d.svg": "/static/media/location2.cba5d06d.svg",
+    "static/media/new1.090b231e.png": "/static/media/new1.090b231e.png",
+    "static/media/orange dot.6167ec87.svg": "/static/media/orange dot.6167ec87.svg",
+    "static/media/purple dot.10eb3b66.svg": "/static/media/purple dot.10eb3b66.svg",
+    "static/media/rectangle26.958a1f42.svg": "/static/media/rectangle26.958a1f42.svg",
+    "static/media/rectangle27.6b1c22cd.svg": "/static/media/rectangle27.6b1c22cd.svg",
+    "static/media/tfare_1.cb6220d7.svg": "/static/media/tfare_1.cb6220d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52fbdf32.js",
+    "static/js/2.4b47f269.chunk.js",
+    "static/css/main.8b99c50f.chunk.css",
+    "static/js/main.2b71419e.chunk.js"
+  ]
+}

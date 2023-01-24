@@ -1,0 +1,70 @@
+div.form-field {
+  display: block; 
+  margin-bottom: 0px;
+  color: var(--color-blue-4);
+}
+
+div.form-field .control input {
+  appearance: none;
+  border: 0;
+  border: 1px solid var(--color-blue-2);
+  color: var(--color-blue-4);
+  display: block;
+  font-size: var(--fsize-4);
+  margin-top: 24px;
+  outline: 0;
+  padding: 15px 17px 10px 12px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+div.form-field .control label {
+  display: block;
+  font-size: var(--fsize-4);
+  font-weight: normal;
+  left: 0;
+  margin: 0;
+  padding: 38px 17px 0px;
+  position: absolute;
+  top: 0;
+  transition: all 400ms;
+  width: 100%;
+}
+
+div.form-field.is-focused .control::after {
+  border-bottom: 2px solid var(--color-blue-1);
+  transform: scaleX(150);
+}
+
+div.form-field.is-focused .control label {
+  color: var(--color-blue-3);
+  font-size: var(--fsize-3);
+  transform: translateY(-14px);
+}
+
+div.form-field.has-value .control label {
+  font-size: var(--fsize-3);
+  transform: translateY(-14px);
+}
+
+div.form-field .control {
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+div.form-field .control::after {
+  border-bottom: 2px solid var(--color-blue-1);
+  bottom: 0;
+  content: "";
+  display: block;
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  right: 0;
+  transform: scaleX(0);
+  transition: all 400ms;
+  width: 1%;
+}
+
